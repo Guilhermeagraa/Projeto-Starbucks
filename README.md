@@ -1,6 +1,6 @@
-# Starbucks Clone
+# Starbucks 
 
-Clone do site da Starbucks, feito com HTML e CSS, totalmente responsivo e otimizado para diferentes dispositivos.
+Inspirado de um site da Starbucks, feito com HTML e CSS, totalmente responsivo e otimizado para diferentes dispositivos.
 
 ## Tecnologias utilizadas
 - HTML5
